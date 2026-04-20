@@ -179,15 +179,6 @@ Expected:
 
 ---
 
-## Performance Metrics
-
-* Latency (ping)
-* Throughput (iperf)
-* Flow table updates
-* Packet statistics
-
----
-
 ## Author
 
 Renetta Nathan
