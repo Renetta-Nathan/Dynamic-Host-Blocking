@@ -152,9 +152,17 @@ Expected:
 
 ## Output / Proof
 
-* Ping results
-* Flow table entries
+* Normal Ping (before blocking)
+  <img width="907" height="337" alt="image" src="https://github.com/user-attachments/assets/01d9a4f7-03c7-446e-a9ca-01364ca79d31" />
+  
+* Flood Ping (attack simulation)
+  <img width="1089" height="379" alt="image" src="https://github.com/user-attachments/assets/9fc532c3-c16b-45ce-9416-3242e66da347" />
+
+* After Blcking Happens
+  <img width="1141" height="354" alt="image" src="https://github.com/user-attachments/assets/e292da03-8ed1-47b6-9b3a-ed0ee3e46dff" />
+
 * Controller logs showing blocking
+<img width="406" height="529" alt="image" src="https://github.com/user-attachments/assets/65fd93bd-3ae7-41e4-b359-cb770dbe88fa" />
 
 ---
 
